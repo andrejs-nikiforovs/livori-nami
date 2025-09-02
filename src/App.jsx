@@ -155,7 +155,7 @@ export default function App() {
           <h2 className="text-3xl font-semibold">{t.contactTitle}</h2>
           <p className="mt-2 text-slate-600">{t.contactDesc}</p>
           <div className="mt-4 space-y-2 text-slate-700">
-            <div className="flex items-center gap-2"><Phone className="w-4 h-4"/> +371 0000 0000</div>
+            <div className="flex items-center gap-2"><Phone className="w-4 h-4"/> +371 28770222</div>
             <div className="flex items-center gap-2"><Mail className="w-4 h-4"/> nami@livori.lv</div>
             <div className="flex items-center gap-2"><MapPin className="w-4 h-4"/> Muitas iela 1, Rīga, LV-1010</div>
             <div className="flex items-center gap-2"><Clock className="w-4 h-4"/> P.–Pk. 9:00–18:00</div>
